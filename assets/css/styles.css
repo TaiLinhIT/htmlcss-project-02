@@ -52,6 +52,7 @@ body{
     display: flex;
 }
 .nav a{
+    position: relative;
     padding: 8px 21px;
     color: #5F5B53;
     font-size: 1.6rem;
